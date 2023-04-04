@@ -27,6 +27,4 @@ class MathAdapter(activity: FragmentActivity) : FragmentStateAdapter(activity){
             else -> {PointFragment()}
         }
     }
-
-
 }

@@ -32,5 +32,4 @@ class ViewPointFragment : Fragment() {
             binding.pointTv.text = it.toString()
         }
     }
-
 }
